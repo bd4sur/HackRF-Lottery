@@ -1,18 +1,25 @@
 # HackRF-Lottery
 
+**活动已结束。**
+
 本仓库用于公示 [BD4SUR](https://github.com/BD4SUR) 抽送 **HackRF One + Portapack H2 软件无线电设备**的活动的规则等信息，同时用于收集抽奖报名信息。
 
-## 具备抽奖资格的OM名单（更新中）
+## 抽奖者名单与开奖结果公示
 
-现有抽奖人数：4人，报名仍在进行。**报名于2021年12月2日当天福彩3D游戏开奖时截止。**
+参与抽奖人数：4人。**报名于2021年12月2日当天福彩3D游戏开奖时截止。**
 
-|编号|GitHub ID|报名Issue|
-|----|----|----|
-|0|kalashnlkov|[#1](https://github.com/bd4sur/HackRF-Lottery/issues/1)|
-|1|Pichuworks|[#2](https://github.com/bd4sur/HackRF-Lottery/issues/2)|
-|2|YuYanDev|[#3](https://github.com/bd4sur/HackRF-Lottery/issues/3)|
-|3|Po84210|[#4](https://github.com/bd4sur/HackRF-Lottery/issues/4)|
+[2021年12月2日福彩3D游戏第2021322期开奖号码](http://www.cwl.gov.cn/c/2021/12/02/494781.shtml)：500. 
 
+根据抽奖规则，**中奖的抽奖者编号为：0号**，即 https://github.com/kalashnlkov
+
+|编号|GitHub ID|中奖情况|报名Issue|
+|----|----|----|----|
+|0|kalashnlkov|中奖|[#1](https://github.com/bd4sur/HackRF-Lottery/issues/1)|
+|1|Pichuworks|未中奖|[#2](https://github.com/bd4sur/HackRF-Lottery/issues/2)|
+|2|YuYanDev|未中奖|[#3](https://github.com/bd4sur/HackRF-Lottery/issues/3)|
+|3|Po84210|未中奖|[#4](https://github.com/bd4sur/HackRF-Lottery/issues/4)|
+
+以上便是本次活动的开奖结果。本人已经与中奖者单独沟通，处理兑奖事宜。感谢各位OM捧场，73！
 
 ## 活动背景
 
